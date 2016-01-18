@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F0812C21707B5C4CD76AE64D46E23BFC78D30FFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BEEC795CE130BEB46EB21A58ABC678A915951772" : 0,
+    "F0812C21707B5C4CD76AE64D46E23BFC78D30FFF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "52173837-ABD1-4F64-A749-E28C1138EA89",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BEEC795CE130BEB46EB21A58ABC678A915951772" : "..",
+    "F0812C21707B5C4CD76AE64D46E23BFC78D30FFF" : "Pitch%20Perfect\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pitch Perfect",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Pitch Perfect.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LithiumLover\/CodeEval.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEEC795CE130BEB46EB21A58ABC678A915951772"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dritani\/Pitch-Perfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0812C21707B5C4CD76AE64D46E23BFC78D30FFF"
+    }
+  ]
+}

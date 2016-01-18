@@ -7,13 +7,15 @@
 //
 
 import Foundation
+import AVFoundation
 
-class RecordedAudio: NSObject{
+class RecordedAudio: NSObject {
     var filePathUrl: NSURL!
     var title: String!
     
-    override init() {
-        
+    init(recorder: AVAudioRecorder) {
+        self.filePathUrl = recorder.url
+        self.title = recorder.url.lastPathComponent
     }
     
 }

@@ -32,7 +32,6 @@
                                 <animations/>
                                 <state key="normal" image="stop"/>
                                 <connections>
-                                    <action selector="recordAudio:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Thx-lT-4gM"/>
                                     <action selector="stopRecording:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0ln-Ow-CIP"/>
                                 </connections>
                             </button>

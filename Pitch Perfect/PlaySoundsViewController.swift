@@ -14,6 +14,7 @@ class PlaySoundsViewController: UIViewController {
     
     var audioPlayer:AVAudioPlayer!
     var receivedAudio:RecordedAudio!
+    
     var audioEngine:AVAudioEngine!
     var audioFile:AVAudioFile!
     
@@ -84,6 +85,8 @@ class PlaySoundsViewController: UIViewController {
     }
     
     @IBAction func stopAudio(sender: UIButton) {
+        audioEngine.stop()
+        audioEngine.reset()
         audioPlayer.stop()
     }
 
