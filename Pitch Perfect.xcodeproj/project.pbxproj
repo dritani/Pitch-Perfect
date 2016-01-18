@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		6E0171291C49D2F000FA2A19 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0171281C49D2F000FA2A19 /* PlaySoundsViewController.swift */; };
-		6E01712B1C49E86200FA2A19 /* movie_quote.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E01712A1C49E86200FA2A19 /* movie_quote.mp3 */; };
 		6E5F199B1C4AFD7F00F0B602 /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E5F199A1C4AFD7F00F0B602 /* RecordedAudio.swift */; };
 		6E71B1131C4729CD00A13DB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E71B1121C4729CD00A13DB9 /* AppDelegate.swift */; };
 		6E71B1151C4729CD00A13DB9 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E71B1141C4729CD00A13DB9 /* RecordSoundsViewController.swift */; };
@@ -38,7 +37,6 @@
 
 /* Begin PBXFileReference section */
 		6E0171281C49D2F000FA2A19 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
-		6E01712A1C49E86200FA2A19 /* movie_quote.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = movie_quote.mp3; path = ../../../../../Downloads/movie_quote.mp3; sourceTree = "<group>"; };
 		6E5F199A1C4AFD7F00F0B602 /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
 		6E71B10F1C4729CD00A13DB9 /* Pitch Perfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pitch Perfect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E71B1121C4729CD00A13DB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,7 +81,6 @@
 		6E01712D1C49E8DB00FA2A19 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6E01712A1C49E86200FA2A19 /* movie_quote.mp3 */,
 				6E71B11E1C4729CD00A13DB9 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -249,7 +246,6 @@
 			files = (
 				6E71B11D1C4729CD00A13DB9 /* LaunchScreen.storyboard in Resources */,
 				6E71B11A1C4729CD00A13DB9 /* Assets.xcassets in Resources */,
-				6E01712B1C49E86200FA2A19 /* movie_quote.mp3 in Resources */,
 				6E71B1181C4729CD00A13DB9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
