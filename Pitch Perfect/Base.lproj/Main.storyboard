@@ -121,7 +121,7 @@
                                 <animations/>
                                 <state key="normal" image="stop"/>
                                 <connections>
-                                    <action selector="stopAudio:" destination="Jy5-Nh-G2n" eventType="touchUpInside" id="nXU-D1-OZS"/>
+                                    <action selector="stopPlaying:" destination="Jy5-Nh-G2n" eventType="touchUpInside" id="dsg-AY-d2g"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wlf-Sz-VOt">
@@ -210,7 +210,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZuX-fc-H8N" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2038.5" y="349"/>
+            <point key="canvasLocation" x="2002.5" y="349"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="H2I-Qd-ho7">
