@@ -14,8 +14,8 @@ class RecordedAudio: NSObject {
     var title: String!
     
     init(recorder: AVAudioRecorder) {
-        self.filePathUrl = recorder.url
-        self.title = recorder.url.lastPathComponent
+        filePathUrl = recorder.url
+        title = recorder.url.lastPathComponent
     }
     
 }
